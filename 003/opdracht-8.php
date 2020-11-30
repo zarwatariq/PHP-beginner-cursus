@@ -2,12 +2,12 @@
     <html lang="en">
         <head>
             <meta charset="UTF-8">
-            <title>Hoofdstuk-1 op-1</title>
+            <title>Hoofdstuk-3 op-8</title>
         </head>
 
         <body>
             <?php
-            echo "Hello world!";
+
             ?>
         </body>
     </html>
