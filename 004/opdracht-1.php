@@ -1,7 +1,12 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Dell
- * Date: 10/12/2020
- * Time: 10:53
- */
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hoofdstuk-4 op-1</title>
+    </head>
+    <body>
+    <?php
+
+    ?>
+    </body>
+    </html>
